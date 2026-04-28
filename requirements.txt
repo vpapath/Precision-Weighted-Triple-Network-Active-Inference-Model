@@ -1,0 +1,4 @@
+inferactively-pymdp==0.0.7.1
+numpy>=1.23
+matplotlib>=3.6
+scipy>=1.9
